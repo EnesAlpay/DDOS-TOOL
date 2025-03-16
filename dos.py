@@ -5,11 +5,6 @@ import os
 import random
 
 print("""
-            [-] ENES ALPAY
-
-            [-] INSTAGRAM ======> enesalpay__00
-
-
  ____  ____   ___  ____            _ ____  
 |  _ \|  _ \ / _ \/ ___|          | |  _ \ 
 | | | | | | | | | \___ \ _____ _  | | |_) |
